@@ -1,7 +1,9 @@
 bandit==1.6.2
 black==19.10b0
 flake8==3.7.9
+idna==2.10
 invoke==1.4.1
 rasa==1.9.6
 scipy==1.4.1
+six==1.15.0
 rasa_plus
